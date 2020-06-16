@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Laddergrowth/monsters-roll/static/css/main.f68cbbf8.chunk.css",
+    "main.js": "/Laddergrowth/monsters-roll/static/js/main.487edf31.chunk.js",
+    "main.js.map": "/Laddergrowth/monsters-roll/static/js/main.487edf31.chunk.js.map",
+    "runtime-main.js": "/Laddergrowth/monsters-roll/static/js/runtime-main.fb9f15b5.js",
+    "runtime-main.js.map": "/Laddergrowth/monsters-roll/static/js/runtime-main.fb9f15b5.js.map",
+    "static/js/2.b4309f00.chunk.js": "/Laddergrowth/monsters-roll/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/Laddergrowth/monsters-roll/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/Laddergrowth/monsters-roll/index.html",
+    "precache-manifest.30747d87edfe9e411ea40ed730451310.js": "/Laddergrowth/monsters-roll/precache-manifest.30747d87edfe9e411ea40ed730451310.js",
+    "service-worker.js": "/Laddergrowth/monsters-roll/service-worker.js",
+    "static/css/main.f68cbbf8.chunk.css.map": "/Laddergrowth/monsters-roll/static/css/main.f68cbbf8.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/Laddergrowth/monsters-roll/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb9f15b5.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.f68cbbf8.chunk.css",
+    "static/js/main.487edf31.chunk.js"
+  ]
+}
